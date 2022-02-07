@@ -1,0 +1,30 @@
+html {
+  font-family: sans-serif;
+}
+body {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  background-color: #15202b;
+}
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.h1 {
+  text-align: center;
+}
+
+div {
+  background-color: #8899a6;
+  padding: 2px;
+  align-items: center;
+  border-radius: 0.8rem;
+}
+
+p,
+.form {
+  text-align: center;
+}
